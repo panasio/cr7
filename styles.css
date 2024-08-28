@@ -1,0 +1,16 @@
+img{
+float: left;
+height: 500px;
+margin-right: 5%;
+}
+
+.texto {
+    max-width: 400px;
+}
+.titulo {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.conteudo {
+    text-align: justify;
+}
